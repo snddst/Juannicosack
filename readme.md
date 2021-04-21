@@ -1,8 +1,14 @@
 <h2 align="center">👋 Hello! I'm  Verselister.</h2>
 
+<h4 align="center">Un programador que sabe lo basico, Javascript, Python y etc</h4>
+
 <h2 align="center">👨‍💻 Informacion sobre mi.</h2>
 
-[ [Discord](https://discord.gg/z8kMSWpeWJ) _|_ [Youtube](https://www.youtube.com/channel/UCC8GVhj4lKdEeq3EKF6WcLw) _|_ [Roblox](https://www.roblox.com/users/2339961435/profile) ]
+<p align="center">
+  <a href="https://discord.gg/z8kMSWpeWJ">Discord</a> •
+  <a href="https://www.youtube.com/channel/UCC8GVhj4lKdEeq3EKF6WcLw">Youtube</a> • 
+  <a href="https://www.roblox.com/users/2339961435/profile">Roblox</a>
+</p>
 
 <h2 align="center">❓ Que hago?.</h2>
 
