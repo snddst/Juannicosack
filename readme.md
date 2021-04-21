@@ -1,11 +1,9 @@
 <h2 align="center">👋 Hello! I'm  Verselister.</h2>
 
-`Discord: Verselister#0001`
-`Youtube: Verselister`
-`Donde vivo: Mi casa`
+<h2 align="center">👨‍💻 Informacion sobre mi.</h2>
 
-## ✨ 𝓢𝓮𝓻𝓿𝓲𝓭𝓸𝓻𝓮𝓼 𝓑𝓾𝓮𝓷𝓪𝓻𝓭𝓸𝓼 ✨
+[ [Discord](https://discord.gg/z8kMSWpeWJ) _|_ [Youtube](https://www.youtube.com/channel/UCC8GVhj4lKdEeq3EKF6WcLw) _|_ [Roblox](https://www.roblox.com/users/2339961435/profile) ]
 
-_[**Antiplague**](https://discord.gg/qhntadHBvY)_
+<h2 align="center">❓ Que hago?.</h2>
 
-`Como aparecer aqui?` `Para aparecer aqui solo tienes que mandarme un mensaje al discord y listo ✨ `
+_locuras todos los dias! xD_
