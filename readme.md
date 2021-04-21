@@ -1,4 +1,4 @@
-# ☠ 𝓥𝓮𝓻𝓼𝓮𝓵𝓲𝓼𝓽𝓮𝓻 ☠
+<h2 align="center">👋 Hello! I'm  Verselister.</h2>
 
 `Discord: Verselister#0001`
 `Youtube: Verselister`
