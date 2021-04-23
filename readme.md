@@ -12,4 +12,6 @@
 
 ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=verselister)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Verselister&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Verselister&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=000000&title_color=fff&text_color=fff" />
+</p>
