@@ -5,7 +5,7 @@
 <h2 align="center">👨‍💻 Informacion sobre mi.</h2>
 
 <p align="center">
-  <a href="https://discord.gg/z8kMSWpeWJ">Discord</a> •
+  <a href="https://discord.gg/zZ3P9bMZkw">Discord</a> •
   <a href="https://www.youtube.com/channel/UCC8GVhj4lKdEeq3EKF6WcLw">Youtube</a> • 
   <a href="https://www.roblox.com/users/2339961435/profile">Roblox</a>
 </p>
