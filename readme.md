@@ -15,3 +15,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Verselister&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=000000&title_color=fff&text_color=fff" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://ezstat.ru/1BjBg7
+" />
+</p>
